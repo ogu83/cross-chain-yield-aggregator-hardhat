@@ -1,0 +1,14 @@
+{
+  "name": "cross-chain-yield-aggregator",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "hardhat test",
+    "compile": "hardhat compile"
+  },
+  "dependencies": {
+    "hardhat": "^2.24.0"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0"
+  }
+}
