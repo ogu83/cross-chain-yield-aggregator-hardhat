@@ -12,6 +12,8 @@ This is a protocol that:
 - Uses Chainlink Automation to trigger rebalancing based on yield thresholds.
 - Uses Chainlink Data Feeds to monitor APY and token prices.
 
+![Solution Architecture](900ab05c-faa6-436e-a3c9-f2e318f255cd.png)
+
 ## Chainlink Services Used
 - CCIP for cross-chain transfers
 - Automation for rebalancing
@@ -35,3 +37,4 @@ npm install
 npx hardhat compile
 npx hardhat test
 ```
+
